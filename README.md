@@ -1,0 +1,10 @@
+ThinkPHP项目脚手架，各目录说明如下：
+admin：管理页面
+home：前台页面
+public：静态文件，如js，css，image等
+test：单元测试文件
+ThinkPHP：ThinkPHP框架文件，当前是3.1.3版
+ventor：第三方类库目录，和composer集成
+admin.php：管理入口页面
+index.php：前台入口页面
+apc.php：apc缓存管理页面

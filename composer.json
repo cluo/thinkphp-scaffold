@@ -1,0 +1,9 @@
+{
+	"name": "ThinkPHP/demo",
+	"description": "The ThinkPHP Demo.",
+	"keywords": ["framework", "ThinkPHP"],
+	"license": "Apache2",
+	"require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    }
+}
