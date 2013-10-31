@@ -1,1 +1,0 @@
-js、css和image等静态文件
